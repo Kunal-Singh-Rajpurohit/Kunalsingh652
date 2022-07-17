@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kunalsingh652
+- 👋 Hi, I’m Kunal-Singh-Rajpurohit
 - 👀 I’m interested in coding and automation
 - 🌱 I’m currently learning new coding languages
 - 💞️ I’m looking to collaborate on projects
